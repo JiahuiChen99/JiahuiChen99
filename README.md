@@ -36,7 +36,6 @@
 
 <h2 align="center">
   Technology Stack
-  <img src="" width="50">
 </h2>
 
 <h3 align="center"> Programming Languages </h3>
