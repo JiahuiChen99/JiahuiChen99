@@ -6,8 +6,6 @@
 - 📜 Graduation Thesis: Heterogeneous Computing Farm
 - ❤️ Anime - Manga - Game - ドラマ lover
 
-
-
 <h2 align="center">
   Reach me on
   <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/kirby.gif" width="50">
@@ -15,12 +13,67 @@
 
 <p align="center">
   <a href="mailto:Jiahui1@hotmail.es">
-    <img src="https://img.shields.io/badge/-Jiahui1-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:Jiahui1@hotmail.es"/>
+    <img src="https://img.shields.io/badge/-Jiahui1-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:Jiahui1@hotmail.es"/>
   </a>
   <a href="https://www.linkedin.com/in/JiahuiChen99/">
-    <img src="https://img.shields.io/badge/-Jiahui%20Chen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JiahuiChen99/"/>
+    <img src="https://img.shields.io/badge/-Jiahui%20Chen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JiahuiChen99/"/>
   </a>
 </p>
+
+<h2 align="center">
+  Technology Stack
+  <img src="" width="50">
+</h2>
+
+<h3 align="center"> Programming Languages </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
+
+<h3 align="center"> Frameworks </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+<h3 align="center"> Databases </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+<h2 align="center">
+  Workflow
+</h2>
+
+<h3 align="center"> OS </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+
+<h3 align="center"> IDEs / Editors </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+</p>
+
 
 <h2 align="center">
   My Github Stats
