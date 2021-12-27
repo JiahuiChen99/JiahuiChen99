@@ -21,6 +21,20 @@
 </p>
 
 <h2 align="center">
+  My Github Stats
+  <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/sugoi%20neko.png" width="50" alt="sugoi neko">
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JiahuiChen99&count_private=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiahuiChen99&layout=compact&hide_border=true&custom_title=My%20Poison&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JiahuiChen99&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 align="center">
   Technology Stack
   <img src="" width="50">
 </h2>
@@ -72,19 +86,4 @@
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</p>
-
-
-<h2 align="center">
-  My Github Stats
-  <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/sugoi%20neko.png" width="50" alt="sugoi neko">
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiahuiChen99&count_private=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiahuiChen99&layout=compact&hide_border=true&custom_title=My%20Poison&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=JiahuiChen99&theme=tokyonight&hide_border=true"/>
 </p>
