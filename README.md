@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/pyong.gif" width="50">
+### Hi there <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/pyong.gif" width="50" alt="pyong">
 
 - 🎓 Computer Engineering
 - 🛠️ Lead developer of [Moodle Learning Analytics (MLA)](https://github.com/LS-LEDA/MLA) projects at [GRETEL](https://www.salleurl.edu/es/investigacion/grupos-e-institutos/group-research-technology-enhanced-learning) research group @ La Salle URL
@@ -8,7 +8,7 @@
 
 <h2 align="center">
   Reach me on
-  <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/kirby.gif" width="50">
+  <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/kirby.gif" width="50" alt="floating kirby">
 </h2>
 
 <p align="center">
@@ -77,7 +77,7 @@
 
 <h2 align="center">
   My Github Stats
-  <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/sugoi%20neko.png" width="50">
+  <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/sugoi%20neko.png" width="50" alt="sugoi neko">
 </h2>
 
 <p align="center">
