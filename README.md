@@ -5,3 +5,8 @@
 - 🌱 I'm currently learning Go, Rust, Distributed Computing
 - 📜 Graduation Thesis: Heterogeneous Computing Farm
 - ❤️ Anime - Manga - Game - ドラマ lover
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JiahuiChen99&count_private=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiahuiChen99&layout=compact&hide_border=true&custom_title=My%20Poison&theme=tokyonight"/>
+</div>
