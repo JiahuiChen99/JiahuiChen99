@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/pyong.gif" width="50" alt="pyong">
 
 - 🎓 Computer/Software Engineer
+- 📚 Full-stack SWE @ Mediapro Group & Advanced OS Lecturer @ La Salle URL
 - 📓 '22 Teacher Assistant in Data Structure / Algorithms & Sysadmin & Advanced OS @ La Salle URL
 - 🛠️ Lead developer of [Moodle Learning Analytics (MLA)](https://github.com/LS-LEDA/MLA) projects at [GRETEL](https://www.salleurl.edu/es/investigacion/grupos-e-institutos/group-research-technology-enhanced-learning) research group @ La Salle URL
 - 🌱 I'm currently learning Go, Rust, Distributed Computing
