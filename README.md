@@ -10,6 +10,7 @@
 <h2 align="center">
   Reach me on
   <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/kirby.gif" width="50" alt="floating kirby">
+  <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/sugoi%20neko.png" width="50" alt="sugoi neko">
 </h2>
 
 <p align="center">
@@ -19,18 +20,4 @@
   <a href="https://www.linkedin.com/in/JiahuiChen99/">
     <img src="https://img.shields.io/badge/-Jiahui%20Chen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JiahuiChen99/"/>
   </a>
-</p>
-
-<h2 align="center">
-  My Github Stats
-  <img src="https://raw.githubusercontent.com/JiahuiChen99/JiahuiChen99/main/assets/sugoi%20neko.png" width="50" alt="sugoi neko">
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiahuiChen99&count_private=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width="400"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=JiahuiChen99&theme=tokyonight&hide_border=true" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiahuiChen99&layout=compact&hide_border=true&custom_title=My%20Poison&theme=tokyonight"/>
 </p>
